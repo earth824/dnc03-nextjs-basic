@@ -1,5 +1,5 @@
 export default async function PlacePage() {
-  await simLoading();
+  // await simLoading();
   return <div>PlacePage</div>;
 }
 
